@@ -2,7 +2,6 @@ import board
 import neopixel
 import time
 import RPi.GPIO as GPIO
-import time
 
 def wheel(pos):
     if pos <= 127:
