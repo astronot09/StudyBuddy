@@ -1,4 +1,4 @@
-# Study Buddy code created by: Pragyan Patra and Anay Lohia
+# Study Buddy code created by: Pragyan Patra
 # Date last modified: 11/03/26
 import board
 import neopixel
